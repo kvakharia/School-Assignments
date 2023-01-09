@@ -1,7 +1,7 @@
 # School-Assignments
 
 This is where all of my assignments I did in this course will be stored.
----------------------
+----
 
 Course Name: Programming & Robotics
 
