@@ -1,6 +1,6 @@
 # School-Assignments
 
-Course Informatio
+Course Information
 ----
 
 Course Name: Programming & Robotics
