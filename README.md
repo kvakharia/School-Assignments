@@ -1,4 +1,4 @@
-# School-Assignments
+# School Assignments
 
 Course Information
 ----
