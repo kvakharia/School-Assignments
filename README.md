@@ -2,9 +2,9 @@
 
 This repository contains all of my programming assignments in my time at the Beaveton Academy of Science and Engineering. This repository's purpose is two-fold. First it gives me an opportunity to keep all of my programs under source control, this means that I can use this repo as a future reference. Secondly, it gives me a persepctive of how my skills have progressed over the years.
 
-Programming and Robotics
+Courses
 ----
-
+Course Name: Programming & Robotics
 
 Professor: Douglas Wilson
 
