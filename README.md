@@ -14,4 +14,6 @@ Professor: Douglas Wilson
 
 Final Grade: N/A
 
+Language(s) Used: Python, CSS
+
 Taken in Summer of 2023
