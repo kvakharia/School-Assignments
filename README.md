@@ -12,8 +12,8 @@ In Programming and Robotics we will explore the world of robotics and programmin
 
 Professor: Douglas Wilson
 
-Final Grade: N/A
-
 Language(s) Used: Python, CSS
+
+Final Grade: N/A
 
 Taken in Summer of 2023
