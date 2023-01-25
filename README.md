@@ -4,7 +4,7 @@ This repository contains all of my programming assignments in my time at the Bea
 
 Courses
 ---
-Under here, these will be all of the Computer Science classes I have taken. All of the projects and assignments that I have created will be in the Course folders. 
+Under here, these will be all of the Computer Science classes I have taken. All of the projects and assignments that I have created will be in the course folders.
 
 ----
 Course 1: Programming & Robotics
@@ -16,6 +16,8 @@ In Programming and Robotics we will explore the world of robotics and programmin
 Professor: Douglas Wilson
 
 Language(s) Used: Python, CSS
+
+Coure Duration: 5 Months
 
 Final Grade: N/A
 
