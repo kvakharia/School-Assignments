@@ -16,4 +16,6 @@ Language(s) Used: Python, CSS
 
 Final Grade: N/A
 
+Final GPA: N/A
+
 Taken in Summer of 2023
