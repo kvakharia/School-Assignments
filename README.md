@@ -4,7 +4,7 @@ This repository contains all of my programming assignments in my time at the Bea
 
 Courses
 ----
-Course I: Programming & Robotics
+Course 1: Programming & Robotics
 ----------------------------------------
 Course Description: 
 
