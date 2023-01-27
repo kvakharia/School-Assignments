@@ -15,7 +15,7 @@ In Programming and Robotics we will explore the world of robotics and programmin
 
 Professor: Douglas Wilson
 
-Language(s) Used: Python, CSS
+Language(s) Used: Python, CSS*
 
 Coure Duration: 5 Months
 
@@ -24,3 +24,5 @@ Final Grade: N/A
 Final GPA: N/A
 
 Taken in Summer of 2023
+
+* The library I used (PyQt5) has it's own built in CSS support for making applications. That is why GitHub doesn't show that I used CSS.
