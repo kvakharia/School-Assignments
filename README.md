@@ -23,6 +23,6 @@ Final Grade: N/A
 
 Final GPA: N/A
 
-Taken in Summer of 2023
+Taken in Winter of 2023
 
 * The library I used (PyQt5) has it's own built in CSS support for making applications. That is why GitHub doesn't show that I used CSS.
