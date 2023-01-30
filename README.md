@@ -1,6 +1,6 @@
 # School Assignments
 ---
-This repository contains all of my programming assignments in my time at the Beaverton Academy of Science and Engineering. This repository's purpose is two-fold. First it gives me an opportunity to keep all of my programs under source control, this means that I can use this repo as a future reference. Secondly, it gives me a persepctive of how my skills have progressed over the years.
+This repository contains all of my programming assignments in my time at the Beaverton Academy of Science and Engineering. This repository's purpose is two-fold. First it gives me an opportunity to keep all of my programs under source control, this means that I can use this repo as a future reference. Secondly, it gives me a perspective of how my skills have progressed over the years.
 
 Courses
 ---
