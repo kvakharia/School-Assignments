@@ -1,0 +1,13 @@
+# Activity 14 - While loops
+--------
+
+In this assignment, we were tasked with making a high/low game using python's random library. 
+
+I have created an account creation/login system and a high score leaderboard system to this program using the cryptography library in python.
+
+# KNOWN ISSUES
+---
+
+* The program doesn't properly save accounts
+
+That is all :)
