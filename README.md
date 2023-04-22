@@ -17,7 +17,7 @@ Professor: Doug Wilson
 
 Language(s) Used: Python, CSS*
 
-Coure Duration: 5 Months
+Course Duration: 5 Months
 
 Final Grade: N/A
 
