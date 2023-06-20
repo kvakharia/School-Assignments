@@ -16,7 +16,7 @@ connection.setup()
 robots = connection.scan(4000)
 
 # Get Named Robot
-robot = connection.get_robot(robots, "URMOM")
+robot = connection.get_robot(robots, "robot name here")
 
 # Create LocoXtreme Object
 locoxtreme = LocoXtreme(robot)
