@@ -3,8 +3,6 @@ from LocoXtreme import Connection, LocoXtreme, MotorDirection as MD, Data, WaitT
 import time
 #Import the BLoxain module from Custom trained Bloxain LLM:
 import Bloxain
-print('SUCCESS BLOXAIN HACK v23.2 ACTIVE!')
-
 
 # Create Connection Instance
 connection = Connection()
