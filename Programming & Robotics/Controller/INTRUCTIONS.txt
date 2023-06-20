@@ -1,0 +1,13 @@
+1. enable local overrides if they are not already on: https://www.ghacks.net/2018/02/27/make-permanent-changes-to-web-pages-with-chromes-overrides-dev-tool/#:~:text=Here%20is%20what%20you%20need%20to%20do%20to,Sources%20panel%20in%20the%20Developer%20Tools.%20More%20items
+
+2. go to page and add app-locorobo.com / skulpt / skulpt-stdlib.js and add it overrides
+
+3. replace it with skulpt.js(in this folder)
+
+4. Hard refresh (with inspect element open) (ctrl + shift + R)
+
+5. add locorobocode.py from noob or gamer mode as a normal locorobo python script
+
+6. copy & paste Controller.js from noob/gamer mode into the Developer console.
+
+7. run the code&enjoy!
