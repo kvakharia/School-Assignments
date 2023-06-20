@@ -2,9 +2,7 @@
 from LocoXtreme import Connection, LocoXtreme, MotorDirection as MD, Data, WaitType as WT, Song, Note
 import time
 #Import the BLoxain module from Custom trained Bloxain LLM:
-import Bloxain
-print('SUCCESS BLOXAIN HACK v23.2 ACTIVE!')
-
+import Bloxain  # Custom module from the modified skulpt library
 
 # Create Connection Instance
 connection = Connection()
@@ -16,7 +14,7 @@ connection.setup()
 robots = connection.scan(4000)
 
 # Get Named Robot
-robot = connection.get_robot(robots, "URMOM")
+robot = connection.get_robot(robots, "robot name here")
 
 # Create LocoXtreme Object
 locoxtreme = LocoXtreme(robot)
@@ -40,13 +38,13 @@ running = True
 while running:
     time.sleep(0.02)
     
-    # Use the Bloxain LLM&run the Dataleak on locorobo -> import Bloxain Functions
+     import Bloxain Functions
     forward = Bloxain.GetForward()
     backward = Bloxain.GetBackward()
     lturn = Bloxain.GetLTurn()
     rturn = Bloxain.GetRTurn()
     
-    # for 2 secounds Lock all BSD doors to avoid being Sus
+
     if lturn:
         if forward:
             locoxtreme.move(MD.FORWARD, MD.FORWARD, forward, 0.3, False)
