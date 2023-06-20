@@ -1,7 +1,6 @@
 # Module Imports
 from LocoXtreme import Connection, LocoXtreme, MotorDirection as MD, Data, WaitType as WT, Song, Note
 import time
-#Import the BLoxain module from Custom trained Bloxain LLM:
 import Bloxain  # Custom module from the modified skulpt library
 
 # Create Connection Instance
