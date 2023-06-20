@@ -15,13 +15,13 @@ In Programming and Robotics we will explore the world of robotics and programmin
 
 Professor: Doug Wilson
 
-Language(s) Used: Python, CSS*
+Language(s) Used: Python, CSS*, Javascript
 
 Course Duration: 5 Months
 
-Final Grade: N/A
+Final Grade: A+
 
-Final GPA: N/A
+Final GPA: 3.75
 
 Taken in Winter of 2023
 
