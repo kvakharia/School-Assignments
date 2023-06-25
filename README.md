@@ -21,7 +21,7 @@ Course Duration: 5 Months
 
 Final Grade: A+
 
-Final GPA: 3.75
+Final GPA: 3.8
 
 Taken in Winter of 2023
 
